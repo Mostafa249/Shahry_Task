@@ -1,0 +1,11 @@
+{
+  "wrongUserName":"mostafa",
+  "wrongPassword":"1243256",
+  "correctUserName":"standard_user",
+  "correctPassword":"secret_sauce",
+  "errorMessage":"[data-test='error']",
+  "emptyUsernameMessage":"Epic sadface: Username is required",
+  "emptyPasswordMessage":"Epic sadface: Password is required",
+  "wrongCredantialsMessage":"Epic sadface: Username and password do not match any user in this service"
+}
+

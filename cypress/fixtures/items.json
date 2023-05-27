@@ -1,0 +1,11 @@
+{
+  "firstItem" : "[data-test='add-to-cart-sauce-labs-backpack']",
+  "secondItem" :"[data-test='add-to-cart-sauce-labs-bolt-t-shirt']",
+  "thirdItem" : "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+  "firstItemName": "Sauce Labs Backpack",
+  "secondItemName": "Sauce Labs Bolt T-Shirt",
+  "thirdItemName": "Test.allTheThings() T-Shirt (Red)",
+  "firstItemPrice": 29.99,
+  "secondItemPrice": 15.99,
+  "thirdItemPrice": 15.99
+}

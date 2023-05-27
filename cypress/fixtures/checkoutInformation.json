@@ -1,0 +1,8 @@
+{
+  "firstName": "Mostafa",
+  "lastName": "Salem",
+  "postalCode": "12354",
+  "firstNameField": "[data-test='firstName']",
+  "lastNameField" :"[data-test='lastName']",
+  "postalCodeField": "[data-test='postalCode']"
+}
